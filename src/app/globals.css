@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.background-image {
+  background-image: url("../assets/banner/Circuit.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /* Add any additional styling here */
+}
